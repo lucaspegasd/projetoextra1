@@ -1,0 +1,79 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: 0;
+    min-height: auto;
+}
+
+#main {
+    width: 626px;
+    margin: auto;
+    margin-bottom: 64px;
+}
+
+h1 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 32px;
+    line-height: 40px;
+    font-weight: 500;
+    color: #3F3D56;
+    margin-bottom: 16px;
+    width: 494px;
+    height: 40px;
+    
+    margin: auto;
+    margin-bottom: 16px;
+}
+
+span {
+    color: #EE24FF;
+    font-weight: 700;
+}
+
+p {
+    color: #828282;
+    font-weight: 400;
+    width: 540;
+}
+
+strong {
+    font-weight: 700;
+    color: #3F3D56;
+}
+
+#main img {
+    width: 350px;
+    height: 238px;
+    margin-top: 64px;
+    margin-bottom: 32px;
+}
+
+footer {
+    height: 176px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+
+#line {
+    border: 1px solid #ECEFF2;
+    width: 391px;
+    margin: auto;
+    margin-bottom: 16px;
+}
+
+#ofertas {
+    margin-left: 42px;
+    margin-right: 42px;
+}
+
+a {
+    font-weight: 700;
+    color: #3F3D56;
+}
+
+footer img {
+    width: 100%;
+    margin-top: 40.83px;
+}
